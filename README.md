@@ -11,7 +11,7 @@ Enjoy!
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 - ![Assembly](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000) Assembly
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![HTML](https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin) Kotlin
+- ![Kotlin](https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=radical)
 
