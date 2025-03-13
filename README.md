@@ -13,6 +13,8 @@ Enjoy!
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=dark)
