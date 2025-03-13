@@ -1,5 +1,8 @@
 # Hello there! 👋
 
+I am a programmer in several programming languages. I mainly do front-end development, but I also work with low-level programming languages. I also work in the field of mobile development.
+Enjoy!
+
 ## Programming languages ​​i know:
 
 - ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
@@ -8,6 +11,7 @@
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 - ![Assembly](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000) Assembly
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![HTML](https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin) Kotlin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=radical)
 
