@@ -9,9 +9,9 @@
 - ![Assembly](https://img.icons8.com/?size=50&id=gVK745a4Vaur&format=png&color=000000) Assembly
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=radical)
 
 ---
 
