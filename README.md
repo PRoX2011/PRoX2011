@@ -15,9 +15,9 @@ Enjoy!
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=tokyo-night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=tokyo-night)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRoX2011&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
