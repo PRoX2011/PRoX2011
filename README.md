@@ -1,9 +1,16 @@
-# Hello there! 👋
+<h1 align="center">Hi 👋, I'm PRoX</h1>
+<h3 align="center">I am a programmer in several programming languages. I mainly do front-end development, but I also work with low-level programming languages. I also work in the field of mobile development.</h3>
 
-I am a programmer in several programming languages. I mainly do front-end development, but I also work with low-level programming languages. I also work in the field of mobile development.
-Enjoy!
 
-## Programming languages ​​i know:
+- 🔭 I’m currently working on [x16-PRos](https://github.com/PRoX2011/x16-PRos)
+
+- 🌱 I’m currently learning **NextJS**
+
+- 💬 Ask me about **Low level development**
+
+---
+
+## Programming languages,i know:
 
 - ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
