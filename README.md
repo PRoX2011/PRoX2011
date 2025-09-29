@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/MS%20DOS-grey.svg?style=for-the-badge&logoWidth=40&labelWidth=100&fontSize=20" height="50">
 </div>
 
+<br>
+
 <h2>Technology stack</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -48,6 +50,8 @@
   <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
+<br>
+
 <h2>My device on which I work</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/acer%20Aspire%20A15-83B81A?style=for-the-badge&logo=acer&logoColor=white" />
@@ -57,10 +61,10 @@
 </div>
 
 <br>
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=dark" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=dark" />
 </div>
 
