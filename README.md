@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm PRoX</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header"/> 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Science+Gothic&size=40&pause=500&color=2FC8C4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+PRoX" alt="Who is stole my cool SVG?" /></a>
+</div>
 <h3 align="center">I am a programmer in several programming languages. I mainly do front-end development, but I also work with low-level programming languages. I also work in the field of mobile development.</h3>
 
 
@@ -64,11 +67,11 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRoX2011&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRoX2011&layout=compact&theme=dark" />
+  <a href="https://github.com/KasRoudra/github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=PRoX2011&theme=dark"/></a>
+  <a href="https://github.com/KasRoudra/github-stats-card" alt="Give my github-stats back >3"><img src="https://kasroudra-stats-card.onrender.com/lang?user=PRoX2011&theme=dark&layout=compact"/></a>
 </div>
 
 
 ---
 
-If you have any questions for me, don't hesitate to contact me! 😊
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
